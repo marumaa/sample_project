@@ -1,0 +1,13 @@
+streamlit==1.32.0
+streamlit-authenticator==0.3.1
+pyyaml
+python-dotenv==1.0.1
+pymupdf==1.23.8
+faiss-cpu==1.7.4
+numpy==1.26.4
+langchain-openai
+langchain
+langchain-community
+google-auth-oauthlib==1.0.0
+google-api-python-client==2.88.0
+pydrive2==1.15.0 
